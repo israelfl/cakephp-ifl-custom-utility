@@ -1,5 +1,5 @@
 {
-    "name": "cakephp/utility",
+    "name": "israelfl/cakephp-ifl-custom-utility",
     "description": "CakePHP Utility classes such as Inflector, String, Hash, and Security",
     "license": "MIT",
     "authors": [
